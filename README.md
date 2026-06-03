@@ -11,9 +11,8 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 - **Tournament Name:** Gamers Club Masters 2026  
 - **Game:** Counter-Strike 2  
 - **Tournament Tier:** Ranked — Tier 2  
-- **Tournament Organiser:** Gamers Club  
-- **Tournament Operator:** Gamers Club  
-- **Region:** Brazil  
+- **Tournament Organiser:** Gamers Club 
+- **Region:** South America  
 - **Location:**  
   - Online Open Qualifiers  
   - Offline Main Event at Gamers Club Studio, Sorocaba, São Paulo, Brazil  
@@ -23,7 +22,6 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 ## Organiser & Contact
 
 - **Tournament Organiser:** Gamers Club  
-- **Tournament Operator:** Gamers Club  
 - **Contact Email:**  
   - campeonatos@gamersclub.com.br  
 
@@ -41,15 +39,11 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 - **Grand Final:**  
   - 01 November 2026  
 
-The Offline Main Event takes place immediately before the 02 November 2026 Major ranking cutoff, positioning the tournament as a relevant competitive event within the VRS calendar.
-
 ---
 
 ## Prize Pool
 
 **Total Prize Pool:** BRL 135,000
-
-Prize distribution will be published in the official rulebook and/or tournament announcement.
 
 All prize payments are subject to applicable Brazilian tax legislation and are paid in accordance with the official rulebook.  
 No appearance fees, travel support, accommodation support, meal allowances or additional compensation are provided outside the published prize pool.
@@ -71,9 +65,6 @@ This section constitutes the **Additional Information** required under Valve Tou
 - **VRS Subdivision Used:**  
   - South America
 
-- **VRS Filters Applied:**  
-  - To be confirmed in the official tournament announcement
-
 - **VRS Starting Rank:**  
   - Highest-ranked eligible Roster within the applicable VRS subdivision
 
@@ -92,8 +83,7 @@ This section constitutes the **Additional Information** required under Valve Tou
 - **Integrity Disqualification Rules:**  
   - Rosters with active VAC bans  
   - Rosters violating Gamers Club Anti-Cheat policies  
-  - Rosters failing eligibility requirements as defined in the official rulebook  
-  - Rosters unable to attend the offline Main Event in Sorocaba, São Paulo, Brazil  
+  - Rosters failing eligibility requirements as defined in the official rulebook   
 
 Invitations are issued sequentially according to the VRS order.  
 Invited Rosters must accept or decline the invitation within the response period defined by the organiser.  
