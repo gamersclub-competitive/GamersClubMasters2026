@@ -43,17 +43,6 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 - **Main Event:** 29 October–01 November 2026  
 - **Grand Final:** 01 November 2026  
 
-### Strategic Calendar Context
-
-The Main Event is scheduled immediately before the Major ranking cutoff on **02 November 2026**, creating a highly relevant competitive window for teams looking to improve or protect their VRS position.
-
-This timing is expected to:
-
-- Increase the competitive value of the tournament
-- Encourage teams to compete at their highest level
-- Strengthen the sporting narrative around the event
-- Increase audience interest due to its proximity to the Major qualification context
-
 ---
 
 ## Prize Pool
