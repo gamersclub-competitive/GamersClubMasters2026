@@ -12,14 +12,13 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 - **Game:** Counter-Strike 2  
 - **Tournament Tier:** Ranked — Tier 2 with VRS Invitations and Open Qualifiers  
 - **Tournament Organiser:** Gamers Club  
-- **Region:** South America  
+- **Region:** Americas  
 - **VRS Subdivision:** South America  
 - **Visa Region:** Brazil  
 - **Location:**  
   - Online Open Qualifiers  
   - Offline Main Event at Gamers Club Studio, Sorocaba, São Paulo, Brazil  
-- **Main Event Format:** Fully offline / LAN  
-- **Production Model:** Players and casters on site  
+- **Main Event Format:** Fully offline / LAN
 
 ---
 
