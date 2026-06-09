@@ -199,7 +199,7 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 
 ### Third Place Decider
 
-- **Match Format:** Bo1  
+- **Match Format:** Bo3  
 
 ### All Stars Showmatch
 
