@@ -294,19 +294,6 @@ Further details about the format and participants will be announced at a later s
 - There will be no ticket sales for the general public.
 - CSTV access is controlled by the organiser.
 
-### Estimated Audience — Official Channels Only
-
-| Metric | Estimate |
-|---|---:|
-| Peak Viewers | 1,500–2,000 |
-| Average Viewers | 500–750 |
-| Total Views / Impressions | 600,000–900,000 |
-| Unique Viewers | 25,000–40,000 |
-
-These estimates consider only Gamers Club official channels. Watch Parties are not included due to the lack of predictability regarding influencer participation and additional external reach.
-
-Watch Parties may significantly increase the overall audience results if confirmed.
-
 ---
 
 ## Team Attendance & Financial Responsibility
@@ -323,35 +310,6 @@ Teams are responsible for their own:
 ### Contingency Plan
 
 If a team qualified through an Open Qualifier cannot attend the offline Main Event, the slot will be passed to the next eligible team from that qualifier according to the competitive criteria defined in the official rulebook.
-
-This model is aligned with recent practices in the competitive ecosystem, but requires careful management of Open Qualifier teams to reduce the risk of logistical issues.
-
----
-
-## Project Objectives
-
-### Main Concept
-
-Gamers Club Masters 2026 marks the return of one of Gamers Club’s most important competitive properties and forms part of the company’s 10-year celebration.
-
-The event is positioned as an institutional milestone, connecting legacy, community and the future of the CS2 competitive scene.
-
-### Main Objectives
-
-- **Engage the local community**  
-  Strengthen the connection with players and fans by delivering an offline event that brings the community closer to the professional competitive experience.
-
-- **Strengthen the Gamers Club brand**  
-  Consolidate Gamers Club’s position as a leading company in the CS2 ecosystem through a premium, offline and high-quality product.
-
-- **Support regional teams on the road to the Major**  
-  Create a relevant competitive environment that contributes to the development and visibility of local teams in the Major qualification context.
-
-### Role in the Ecosystem
-
-- Bridge between the open circuit and high-level competition
-- Exposure platform for regional talent
-- Strategic asset within the competitive calendar
 
 ---
 
