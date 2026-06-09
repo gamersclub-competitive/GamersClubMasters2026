@@ -82,7 +82,7 @@ This section constitutes the **Additional Information** required under Valve Tou
   - South America
 
 - **VRS Starting Rank:**  
-  - Highest-ranked eligible Roster within the applicable VRS subdivision
+  - Highest-ranked eligible Roster within the South America VRS subdivision, excluding any Roster ranked in the Top 12 of the Global Valve Regional Standings at the applicable VRS publication date.
 
 - **Number of Direct VRS Invites:**  
   - 4 Rosters
