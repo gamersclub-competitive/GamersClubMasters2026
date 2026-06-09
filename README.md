@@ -1,6 +1,6 @@
-# Gamers Club Masters 2026
+# Gamers Club Masters VII
 
-Gamers Club Masters 2026 is a Counter-Strike 2 tournament organised and operated by Gamers Club as part of the company’s 10-year celebration.
+Gamers Club Masters VII is a Counter-Strike 2 tournament organised and operated by Gamers Club as part of the company’s 10-year celebration.
 
 The tournament marks the return of one of Gamers Club’s main competitive properties and will be played as a fully offline event at the Gamers Club studio in Sorocaba, São Paulo, Brazil. The event is positioned as a premium LAN product that connects Gamers Club’s legacy with the future of the South American CS2 competitive ecosystem.
 
@@ -8,7 +8,7 @@ The tournament marks the return of one of Gamers Club’s main competitive prope
 
 ## Tournament Overview
 
-- **Tournament Name:** Gamers Club Masters 2026  
+- **Tournament Name:** Gamers Club Masters VII  
 - **Game:** Counter-Strike 2  
 - **Tournament Tier:** Ranked — Tier 2 with VRS Invitations and Open Qualifiers  
 - **Tournament Organiser:** Gamers Club  
