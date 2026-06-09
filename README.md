@@ -143,7 +143,7 @@ The final list of invited Rosters will be published publicly and will not be alt
 - Open registration
 - Single Elimination bracket
 - Best-of-one (Bo1) matches
-- Decisive matches for Main Event qualification slots, including Semifinals, are played as Best-of-three (Bo3)
+- Decisive matches (Semifinals) for Main Event qualification slots are played as Best-of-three (Bo3)
 
 Teams that qualify through the Open Qualifiers must be able to attend the offline Main Event in Sorocaba, São Paulo, Brazil.  
 Gamers Club will not provide travel, accommodation, food or any other financial support for participating teams.  
