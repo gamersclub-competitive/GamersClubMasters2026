@@ -199,11 +199,7 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 
 ### Third Place Decider
 
-- **Match Format:** Bo3  
-
-### All Stars Showmatch
-
-- **Match Format:** Bo1  
+- **Match Format:** Bo3   
 
 ### Grand Final
 
@@ -236,8 +232,7 @@ The tournament will follow **Schedule Option B**, prioritising broadcast flow, n
 | 11 | Semifinal 1 | 3 | Day 3 | 17:00 | 22:00 | Bo3 |
 | 12 | Semifinal 2 | 3 | Day 3 | 20:30 | 01:30 | Bo3 |
 | 13 | 3rd Place Decider | 4 | Day 4 | 12:00 | 17:00 | Bo1 |
-| 14 | All Stars Showmatch | 4 | Day 4 | 15:30 | 20:30 | Bo1 |
-| 15 | Grand Final | 4 | Day 4 | 17:00 | 22:00 | Bo5 |
+| 14 | Grand Final | 4 | Day 4 | 17:00 | 22:00 | Bo5 |
 
 ### Competitive Progression
 
@@ -246,9 +241,8 @@ The tournament will follow **Schedule Option B**, prioritising broadcast flow, n
 3. Winners’ Matches  
 4. Decider Matches  
 5. Playoffs  
-6. Third Place Decider  
-7. All Stars Showmatch  
-8. Grand Final  
+6. Third Place Decider   
+7. Grand Final  
 
 This schedule avoids overlap between decisive matches, improves storytelling and supports a more efficient broadcast structure.
 
@@ -265,14 +259,6 @@ This schedule avoids overlap between decisive matches, improves storytelling and
 
 Players may bring personal mice, keyboards, in-ears and mousepads, subject to organiser approval and technical checks.  
 External communication software is prohibited during official matches.
-
----
-
-## Showmatch
-
-A special Showmatch is planned for Grand Final day as part of the event programming.
-
-Further details about the format and participants will be announced at a later stage.
 
 ---
 
