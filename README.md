@@ -213,7 +213,7 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 The tournament will follow **Schedule Option B**, prioritising broadcast flow, narrative clarity and operational efficiency.
 
 - **Total Duration:** 4 days  
-- **Total Matches:** 15  
+- **Total Matches:** 14  
 - **Official Broadcast Coverage:** 100% of matches  
 - **Default Time Zone:** BRT  
 
