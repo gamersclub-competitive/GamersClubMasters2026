@@ -231,7 +231,7 @@ The tournament will follow **Schedule Option B**, prioritising broadcast flow, n
 | 10 | Group B Decider Match | 3 | Day 3 | 13:30 | 18:30 | Bo3 |
 | 11 | Semifinal 1 | 3 | Day 3 | 17:00 | 22:00 | Bo3 |
 | 12 | Semifinal 2 | 3 | Day 3 | 20:30 | 01:30 | Bo3 |
-| 13 | 3rd Place Decider | 4 | Day 4 | 12:00 | 17:00 | Bo1 |
+| 13 | 3rd Place Decider | 4 | Day 4 | 12:00 | 17:00 | Bo3 |
 | 14 | Grand Final | 4 | Day 4 | 17:00 | 22:00 | Bo5 |
 
 ### Competitive Progression
