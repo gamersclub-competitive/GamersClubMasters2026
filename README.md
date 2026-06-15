@@ -104,7 +104,8 @@ This section constitutes the **Additional Information** required under Valve Tou
   - Rosters violating Gamers Club Anti-Cheat policies  
   - Rosters failing eligibility requirements as defined in the official rulebook  
 
-Invitations are issued sequentially according to the South America VRS order.  
+Invitations are issued sequentially according to the South America VRS order.
+A Direct VRS Invite may only be accepted if at least three Athletes of the Participating Roster were members of the Invited Roster on the Invite Date and will play in every tournament match. Failure to field at least three such Athletes for the entirety of a match will result in a forfeit.
 Invited Rosters must accept or decline the invitation within the response period defined by the organiser.  
 If a Roster declines, fails to respond or cannot attend the offline Main Event, the invitation is passed to the next eligible Roster in the South America VRS ranking until all four (4) direct invitation slots are filled.
 
