@@ -211,8 +211,6 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 
 ## Schedule
 
-The tournament will follow **Schedule Option B**, prioritising broadcast flow, narrative clarity and operational efficiency.
-
 - **Total Duration:** 4 days  
 - **Total Matches:** 14  
 - **Official Broadcast Coverage:** 100% of matches  
@@ -244,8 +242,6 @@ The tournament will follow **Schedule Option B**, prioritising broadcast flow, n
 5. Playoffs  
 6. Third Place Decider   
 7. Grand Final  
-
-This schedule avoids overlap between decisive matches, improves storytelling and supports a more efficient broadcast structure.
 
 ---
 
