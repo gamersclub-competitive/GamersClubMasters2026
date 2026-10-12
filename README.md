@@ -172,7 +172,7 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 - Two groups of four teams each
 - GSL format
 - Double Elimination within each group
-- Opening Matches: Bo1
+- Opening Matches: Bo3
 - Winners’ Matches: Bo3
 - Elimination Matches: Bo3
 - Decider Matches: Bo3
@@ -218,10 +218,10 @@ If a team does not have VRS and does not have an internal Gamers Club seeding, t
 
 | # | Stage | Day | Date | BRT | CEST | Format |
 |---:|---|---:|---|---|---|---|
-| 1 | Group A Opening Match | 1 | Day 1 | 10:00 | 15:00 | Bo1 |
-| 2 | Group A Opening Match | 1 | Day 1 | 13:30 | 18:30 | Bo1 |
-| 3 | Group B Opening Match | 1 | Day 1 | 17:00 | 22:00 | Bo1 |
-| 4 | Group B Opening Match | 1 | Day 1 | 20:30 | 01:30 | Bo1 |
+| 1 | Group A Opening Match | 1 | Day 1 | 10:00 | 15:00 | Bo3 |
+| 2 | Group A Opening Match | 1 | Day 1 | 13:30 | 18:30 | Bo3 |
+| 3 | Group B Opening Match | 1 | Day 1 | 17:00 | 22:00 | Bo3 |
+| 4 | Group B Opening Match | 1 | Day 1 | 20:30 | 01:30 | Bo3 |
 | 5 | Group A Elimination Match | 2 | Day 2 | 10:00 | 15:00 | Bo3 |
 | 6 | Group B Elimination Match | 2 | Day 2 | 13:30 | 18:30 | Bo3 |
 | 7 | Group A Winners’ Match | 2 | Day 2 | 17:00 | 22:00 | Bo3 |
